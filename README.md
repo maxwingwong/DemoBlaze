@@ -2,9 +2,9 @@
 
 Installation of cypress 
 
--Open the terminal in VS code
--find the file directory 
--Command: npm -i init
+- Open the terminal in VS code
+- find the file directory 
+- Command: npm -i init
 - input the project details if necessary, then “Yes”
 - Command: npm install cypress
 - Command: npx cypress open (to create cypress config file)
