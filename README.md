@@ -1,6 +1,7 @@
 # This project is a project which need to install Cypress to run the script inside
 
 Installation of cypress 
+
 -Open the terminal in VS code
 -find the file directory 
 -Command: npm -i init
