@@ -230,7 +230,7 @@ describe("Demoblaze Website", () => {
 
     //Cart functionality- Add product into cart
 
-    it.only('Cart functionality-Add product', () => {
+    it('Cart functionality-Add product', () => {
         cy.contains('Samsung galaxy s6').click()
         cy.get('[onclick="addToCart(1)"]').click()
         cy.on('window:alert', (txt) => {
